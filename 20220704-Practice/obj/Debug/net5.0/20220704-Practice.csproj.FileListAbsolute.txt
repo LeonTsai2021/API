@@ -318,7 +318,6 @@ D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\bin\Debug\net5.0\Micro
 D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\bin\Debug\net5.0\Microsoft.OpenApi.dll
 D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\bin\Debug\net5.0\MySqlConnector.dll
-D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -375,3 +374,6 @@ D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\obj\Debug\net5.0\ref\2
 D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\obj\Debug\net5.0\20220704-Practice.pdb
 D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\obj\Debug\net5.0\20220704-Practice.genruntimeconfig.cache
 D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\bin\Debug\net5.0\EntityFramework.dll
+D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\bin\Debug\net5.0\libman.json
+D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\bin\Debug\net5.0\lib\aspnet\signalr\package.json
+D:\db\20220703HelloDB\20220704-Practice\20220704-Practice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

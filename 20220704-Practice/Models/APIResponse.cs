@@ -25,7 +25,7 @@ namespace Greeny
         public APIResultCode result { set; get; }
         public string msg { set; get; }
 
-        public T data { set; get; }//data可以存任何被後宣告的型別
+        public T data { set; get; }//data可以存任何被後宣告的型別，因為此class會被宣告物件並回傳，故需要泛型來回傳複數資料
     }
 
 
